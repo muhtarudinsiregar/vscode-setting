@@ -1,3 +1,4 @@
+# Setting
 ```
   "workbench.colorTheme": "One Dark Pro Vivid",
   "editor.fontSize": 16,
@@ -14,3 +15,12 @@
   "window.zoomLevel": 0,
   "vim.disableAnnoyingNeovimMessage": true
 ```
+
+# Extensions
+* Quokka.jS
+* Typescript Importer
+* Vim emulation for vscode
+* Align
+* One Dark Pro
+* Prettier
+* Eslint
