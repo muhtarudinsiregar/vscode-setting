@@ -53,3 +53,6 @@
 * One Dark Pro
 * Prettier
 * Eslint
+
+# List raw setting and extension
+[Raw Setting and extension](https://gist.github.com/muhtarudinsiregar/0932979ac59f5b52676c75a880865adb)
